@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1254b870-c35b-4b43-87c2-89117fdcacab" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\maven\apache-maven-3.9.3-bin\apache-maven-3.9.3\repository_new" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../soft/maven/apache-maven-3.9.3-bin/apache-maven-3.9.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.9.3-bin\apache-maven-3.9.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Rs9cteXBnA5LqyfpHXDwjAO3ji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/project/javawork/heima-leadnews",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "ff42603e51b99457e0c7c289185f3543",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "de8c53cd-0baf-4ecf-9e6f-fa1169c7ac53"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\javawork\heima-leadnews\heima-leadnews-feign-api\src\main\java\com\heima\apis" />
+      <recent name="D:\project\javawork\heima-leadnews\heima-leadnews-common\src\main\java\com\heima\common" />
+      <recent name="D:\project\javawork\heima-leadnews\heima-leadnews-service" />
+      <recent name="D:\project\javawork\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model" />
+      <recent name="D:\project\javawork\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\wemedia\dtos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\springcloud\头条\黑马头条\day01-环境搭建、SpringCloud微服务(注册发现、网关)\资料\初始工程\heima-leadnews\sql" />
+      <recent name="E:\springcloud\头条\黑马头条\day01-环境搭建、SpringCloud微服务(注册发现、网关)\资料\初始工程\heima-leadnews\heima-leadnews-common\src\main\java\com\heima\common" />
+      <recent name="G:\springcloud\头条\黑马头条\day01-环境搭建、SpringCloud微服务(注册发现、网关)\资料\初始工程\heima-leadnews\heima-leadnews-service" />
+      <recent name="G:\springcloud\头条\黑马头条\day01-环境搭建、SpringCloud微服务(注册发现、网关)\资料\初始工程\heima-leadnews\heima-leadnews-service\heima-leadnews-wemedia\src\main\java\com\heima\wemedia\service" />
+      <recent name="G:\springcloud\头条\黑马头条\day01-环境搭建、SpringCloud微服务(注册发现、网关)\资料\初始工程\heima-leadnews\heima-leadnews-service\heima-leadnews-wemedia\src\main\java\com\heima\wemedia\service\impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.heima.model.user.pojos" />
+      <recent name="com.heima.admin.service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.heima.schedule.service.impl" />
+      <recent name="com.heima.wemedia.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heima.apis.wemedia" />
+      <recent name="com.heima.article.listener" />
+      <recent name="com.heima.search.config" />
+      <recent name="com.heima.utils.thread" />
+      <recent name="com.heima.model.admin.dtos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WemediaApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="MANIFEST" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-admin" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.admin.AdminApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-article" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.article.ArticleApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BehaviorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-behavior" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.behavior.BehaviorApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.behavior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleApplication 51702" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="heima-leadnews-schedule" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.schedule.ScheduleApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=51702" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-user" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.user.UserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WemediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-wemedia" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.wemedia.WemediaApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.wemedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ScheduleApplication 51702" />
+      <item itemvalue="Spring Boot.ArticleApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.BehaviorApplication" />
+      <item itemvalue="Spring Boot.WemediaApplication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WemediaApplication" />
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="Spring Boot.BehaviorApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.ArticleApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1254b870-c35b-4b43-87c2-89117fdcacab" name="变更" comment="" />
+      <created>1688028004659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688028004659</updated>
+      <workItem from="1688028005957" duration="633000" />
+      <workItem from="1688042603313" duration="511000" />
+      <workItem from="1688043146737" duration="185000" />
+      <workItem from="1688044661110" duration="53000" />
+      <workItem from="1688107125949" duration="639000" />
+      <workItem from="1688195736153" duration="12259000" />
+      <workItem from="1688262211543" duration="12094000" />
+      <workItem from="1688283345742" duration="2577000" />
+      <workItem from="1688286110309" duration="1466000" />
+      <workItem from="1688301994438" duration="7929000" />
+      <workItem from="1688345054670" duration="3227000" />
+      <workItem from="1688349203837" duration="12660000" />
+      <workItem from="1688367134823" duration="6000" />
+      <workItem from="1688371433823" duration="3535000" />
+      <workItem from="1688385152002" duration="6139000" />
+      <workItem from="1688391646534" duration="2690000" />
+      <workItem from="1688431449842" duration="5616000" />
+      <workItem from="1688441182415" duration="191000" />
+      <workItem from="1688520882737" duration="304000" />
+      <workItem from="1688523891407" duration="2601000" />
+      <workItem from="1688532825687" duration="2212000" />
+      <workItem from="1688537970426" duration="2713000" />
+      <workItem from="1688564592880" duration="2295000" />
+      <workItem from="1688566931611" duration="1341000" />
+      <workItem from="1688605214366" duration="599000" />
+      <workItem from="1688609777559" duration="105000" />
+      <workItem from="1688615117734" duration="6760000" />
+      <workItem from="1688631229736" duration="3461000" />
+      <workItem from="1688646076519" duration="3711000" />
+      <workItem from="1688781124977" duration="7355000" />
+      <workItem from="1688864641096" duration="14033000" />
+      <workItem from="1688951443567" duration="1246000" />
+      <workItem from="1688969988393" duration="487000" />
+      <workItem from="1688970500681" duration="172000" />
+      <workItem from="1688972890199" duration="5635000" />
+      <workItem from="1689041513387" duration="1768000" />
+      <workItem from="1689044700420" duration="6246000" />
+      <workItem from="1689051943010" duration="70000" />
+      <workItem from="1689055677566" duration="9905000" />
+      <workItem from="1689124416339" duration="8585000" />
+      <workItem from="1689142871485" duration="4847000" />
+      <workItem from="1689215807411" duration="309000" />
+      <workItem from="1689216961074" duration="1717000" />
+      <workItem from="1689219846997" duration="1004000" />
+      <workItem from="1689229067275" duration="9367000" />
+      <workItem from="1689240740558" duration="3026000" />
+      <workItem from="1689247514443" duration="3876000" />
+      <workItem from="1689297144619" duration="2372000" />
+      <workItem from="1689302632446" duration="13206000" />
+      <workItem from="1689326825740" duration="620000" />
+      <workItem from="1689389642146" duration="8671000" />
+      <workItem from="1689418629341" duration="3934000" />
+      <workItem from="1689475881435" duration="12418000" />
+      <workItem from="1689556320005" duration="3784000" />
+      <workItem from="1689644464362" duration="1477000" />
+      <workItem from="1689668241261" duration="256000" />
+      <workItem from="1689668656976" duration="156000" />
+      <workItem from="1689668834798" duration="478000" />
+      <workItem from="1689683518358" duration="1925000" />
+      <workItem from="1689820607433" duration="4409000" />
+      <workItem from="1689837723547" duration="669000" />
+      <workItem from="1689842671309" duration="6144000" />
+      <workItem from="1689903208421" duration="1620000" />
+      <workItem from="1689905610618" duration="325000" />
+      <workItem from="1689905954569" duration="193000" />
+      <workItem from="1689906160000" duration="1330000" />
+      <workItem from="1689907823892" duration="3172000" />
+      <workItem from="1690168463975" duration="1045000" />
+      <workItem from="1690301505525" duration="1389000" />
+      <workItem from="1690302919410" duration="222000" />
+      <workItem from="1690338721760" duration="1294000" />
+      <workItem from="1690367515631" duration="16000" />
+      <workItem from="1690379520858" duration="458000" />
+      <workItem from="1690380053665" duration="2110000" />
+      <workItem from="1690440525425" duration="199000" />
+      <workItem from="1690596643987" duration="6576000" />
+      <workItem from="1690618109721" duration="74000" />
+      <workItem from="1690618275330" duration="2095000" />
+      <workItem from="1690635857667" duration="4583000" />
+      <workItem from="1690677733579" duration="5218000" />
+      <workItem from="1690781269817" duration="74000" />
+      <workItem from="1692714036981" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/controller/v1/WmMaterialController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/controller/v1/WmMaterialController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/impl/WmNewsAutoScanServiceImpl.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-schedule/src/main/java/com/heima/schedule/service/impl/TaskServiceImpl.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-test/es-init/src/test/java/com/heima/es/ApArticleTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-search/src/main/java/com/heima/search/service/impl/ArticleSearchServiceImpl.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-search/src/main/java/com/heima/search/service/impl/ApUserSearchServiceImpl.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/AdminServiceImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/AdminServiceImpl.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-user/src/main/java/com/heima/user/service/impl/ApUserRealnameServiceImpl.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/impl/WmNewsServiceImpl.java</url>
+          <line>311</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/heima-leadnews-test/kafka-demo/src/main/java/com/heima/kafka/sample/ProducerQuickStart.java</url>
+          <line>13</line>
+          <properties class="com.heima.kafka.sample.ProducerQuickStart" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
